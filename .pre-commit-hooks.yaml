@@ -5,4 +5,4 @@
     'types': [text]
     args: []
     require_serial: false
-    additional_dependencies: ["js-beautify@1.8.10-beta2"]
+    additional_dependencies: ["js-beautify@1.8.10-beta3"]
